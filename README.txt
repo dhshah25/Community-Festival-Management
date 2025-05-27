@@ -3,7 +3,7 @@ Community Festival Management System
 
 Overview:
 ---------
-This project is part of the CSE 4/560 Data Models and Query Language course at the University at Buffalo. It implements a PostgreSQL-based system to manage local cultural festivals — covering scheduling, registration, ticketing, artist management, and more.
+This project is part of the course. It implements a PostgreSQL-based system to manage local cultural festivals — covering scheduling, registration, ticketing, artist management, and more.
 
 Problem Statement
 -----------------
@@ -89,10 +89,6 @@ Dependencies:
 
 Team:
 -----
-- Kanika Saxena (ksaxena2@buffalo.edu)
-- Dhairya Shah (dshah22@buffalo.edu)
-- Rama Sai Rahul Gedela (ramasair@buffalo.edu)
-
-Course: CSE 4/560 - Spring 2025  
-Instructor: Dr. Shamsad Parvin
-
+- Kanika Saxena 
+- Dhairya Shah 
+- Rama Sai Rahul Gedela
