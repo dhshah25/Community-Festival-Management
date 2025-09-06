@@ -3,7 +3,7 @@ Community Festival Management System
 
 Overview:
 ---------
-This project is part of the course. It implements a PostgreSQL-based system to manage local cultural festivals — covering scheduling, registration, ticketing, artist management, and more.
+This project implements a PostgreSQL-based system to manage local cultural festivals — covering scheduling, registration, ticketing, artist management, and more.
 
 Problem Statement
 -----------------
@@ -86,11 +86,4 @@ Dependencies:
 - Python 3.9+
 - Faker (`pip install faker`)
 - PostgreSQL
-
-Team:
------
-- Kanika Saxena 
-- Dhairya Shah 
-- Rama Sai Rahul Gedela 
-
 
